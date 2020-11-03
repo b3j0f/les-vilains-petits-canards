@@ -1,0 +1,4 @@
+- contacter fred du point d'o
+- contacter la ligue de l'enseignement
+- affichettes avec les principaux points
+- cf simplon roubaix https://hautsdefrance.simplon.co/session/hackeuses-1/90
